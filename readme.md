@@ -7,4 +7,4 @@ To evaluate our algorithm and compare with existing benchmarks, we conduct exten
 
 
 
-### Note that the K we used is 4.
+### Note that the number of transformations in the flow model (K) is 4, for the purpose of simplicity.
